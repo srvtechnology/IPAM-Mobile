@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570831339769",
+    "project_id": "auratrade-p93c",
+    "storage_bucket": "auratrade-p93c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570831339769:android:810bbf41bb58553722e228",
+        "android_client_info": {
+          "package_name": "com.example.ipam_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570831339769-61solubvp915p7sp50fknlks12ifljnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7_0oCFNbwQLlzEA9XgLxtAGZdK-msFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570831339769-61solubvp915p7sp50fknlks12ifljnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
